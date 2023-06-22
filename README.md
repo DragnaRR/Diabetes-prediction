@@ -38,7 +38,7 @@ each with nine separate attributes. Table shows the attribute definitions as wel
 
 ## Flow Chart
 
-![Flow_chart](https://github.com/DragnaRR/Diabetes-prediction/blob/main/Diabetes%20prediction/screenshot/flow_chart.PNG)
+![Flow Chart](https://github.com/DragnaRR/Diabetes-prediction/assets/95096810/a17c8b9f-f754-436e-9c0a-c317071c2926)
 
 
 
@@ -49,6 +49,7 @@ each with nine separate attributes. Table shows the attribute definitions as wel
 ## Confusion matrix
 In the confusion matrix, the rows represent the target classes and the columns the output classes for the testing target data set. The diagonal cells in each table show the number of correctly classified cases, and the off-diagonal cells show the misclassified instances.
 
-![Confusion_matrix](https://github.com/DragnaRR/Diabetes-prediction/blob/main/Diabetes%20prediction/screenshot/confusion_matrix.PNG)
+![confusion matrix](https://github.com/DragnaRR/Diabetes-prediction/assets/95096810/c58e5acd-0388-40f3-9fc5-e4d8162cdf44)
 
 [Link to the paper](http://www.tjprc.org/search.php)
+[paper.pdf](https://github.com/DragnaRR/Diabetes-prediction/files/11838083/paper.pdf)
