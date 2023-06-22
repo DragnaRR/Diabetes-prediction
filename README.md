@@ -52,4 +52,5 @@ In the confusion matrix, the rows represent the target classes and the columns t
 ![confusion matrix](https://github.com/DragnaRR/Diabetes-prediction/assets/95096810/c58e5acd-0388-40f3-9fc5-e4d8162cdf44)
 
 [Link to the paper](http://www.tjprc.org/search.php)
-[paper.pdf](https://github.com/DragnaRR/Diabetes-prediction/files/11838083/paper.pdf)
+
+[Download Paper](https://github.com/DragnaRR/Diabetes-prediction/files/11838083/paper.pdf)
