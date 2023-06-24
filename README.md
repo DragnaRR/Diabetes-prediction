@@ -35,6 +35,7 @@ each with nine separate attributes. Table shows the attribute definitions as wel
 | Age (F8) | 33.24 ± 11.76 |
 | Skin (F9) | 0.81 ± 0.63 |
 
+[Link to the dataset](https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv)
 
 ## Flow Chart
 
