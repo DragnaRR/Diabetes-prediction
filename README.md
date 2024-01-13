@@ -4,7 +4,7 @@
 The aim is to predict about diabetes based on features like pregnancy, glucose concentration,
 blood pressure, thickness, insulin, BMI, age and skin. 
 
-It a comparison between 2 algorithms for binary classification, determining which works better for 
+It's a comparison between 2 algorithms for binary classification, determining which works better for 
 predicting the output 1 or 0 (Diabetes or not)
 
 ## Requirement
